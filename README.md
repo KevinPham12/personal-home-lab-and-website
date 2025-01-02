@@ -9,10 +9,10 @@ This repository documents my journey in setting up a personal home lab and creat
 
 ## Getting Started  
 1. Clone this repository.  
-2. Follow the setup instructions (coming soon).  
+2. Follow the setup instructions in `setup-guide.md`.  
 
 ## Current Features
-- coming soon!
+- Ubuntu Server installed on a virtual machine.
 
 ## Next Steps  
 ### Phase 1: Foundation  
@@ -39,4 +39,8 @@ This repository documents my journey in setting up a personal home lab and creat
 - Create a disaster recovery plan and test restoring backups.  
 
 ## Progress Log  
+- Initialized the repository with a README and Setup Guide, which will be updated throughout my progress.
+- Installed Ubuntu Server on a virtual machine. 
+- Created a login on the Ubuntu Server and updated the system.
+
 Stay tuned for updates as I document my progress and challenges in the journey!  
