@@ -32,7 +32,6 @@ This repository documents my journey in setting up a personal home lab and creat
 
 ### Phase 4: Automation and Backup  
 - Automate server updates and backups using cron jobs.  
-- Document the setup process in a `setup-guide.md` file.  
 
 ### Phase 5: Enhancements  
 - Add a photo gallery or blog section to showcase hobbies.  
