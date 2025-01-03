@@ -1,9 +1,9 @@
-# Personal Website and Home Lab Setup  
+# Personal Website
 
-This repository documents my journey in setting up a personal home lab and creating a simple website to showcase my hobbies.  
+This repository documents my journey in setting up a simple website to showcase my hobbies.  
 
 ## Technologies Used  
-- Ubuntu Server  
+- Ubuntu  
 - Apache  
 - HTML, CSS, JavaScript  
 
@@ -12,13 +12,12 @@ This repository documents my journey in setting up a personal home lab and creat
 2. Follow the setup instructions in `setup-guide.md`.  
 
 ## Current Features
-- Ubuntu Server installed on a virtual machine.
+- Ubuntu environment set up on host machine.
 
 ## Next Steps  
 ### Phase 1: Foundation  
-- Install and configure a Linux server on a virtual machine or physical machine.  
-- Set up a LAMP/LEMP stack to host a basic website.  
-- Learn and practice basic HTML and CSS to create a simple static webpage.  
+- Install and configure Apache to serve a basic website.
+- Learn and practive basic HTML and CSS to create a simple static webpage.
 
 ### Phase 2: Website Development  
 - Create a homepage introducing yourself and your hobbies.  
@@ -40,7 +39,6 @@ This repository documents my journey in setting up a personal home lab and creat
 
 ## Progress Log  
 - Initialized the repository with a README and Setup Guide, which will be updated throughout my progress.
-- Installed Ubuntu Server on a virtual machine. 
-- Created a login on the Ubuntu Server and updated the system.
+- Installed Ubuntu on the host machine and updated the system.
 
 Stay tuned for updates as I document my progress and challenges in the journey!  
